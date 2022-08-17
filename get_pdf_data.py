@@ -1,4 +1,4 @@
-import fitz
+import fitz #PyMuPDF
 import json
 from pdfquery import pdfquery
 from bs4 import BeautifulSoup
